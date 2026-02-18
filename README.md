@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-![Static Badge](htttps://img.shield.io/badge/LinkedIn-CONNECT?style=social)
+![Static Badge](https://img.shields.io/badge/hello?style=social&logoColor=red)
