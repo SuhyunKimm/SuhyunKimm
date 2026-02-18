@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyunKimm&layout=compact)
+
+<img src = "htttps://img.shield.io/badge/LinkedIn-CONNECT?style=social>
