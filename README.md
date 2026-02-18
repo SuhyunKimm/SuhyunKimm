@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 
-<img src = "htttps://img.shield.io/badge/LinkedIn-CONNECT?style=social>
+![Static Badge](htttps://img.shield.io/badge/LinkedIn-CONNECT?style=social)
